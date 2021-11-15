@@ -1,10 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!--
 	Be by TEMPLATE STOCK
 	templatestock.co @templatestock
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
@@ -12,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Be Free HTML5 Responsive Template | Template Stock</title>
+    <title>Blossomb MakeUp</title>
 
     <!-- =============== Bootstrap Core CSS =============== -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
@@ -65,22 +67,22 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
 						<li>
-                            <a class="page-scroll" href="#home">Home</a>
+                            <a class="page-scroll" href="#home">Inicio</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#about">About</a>
+                            <a class="page-scroll" href="#about">Nosotros</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#Services">Services</a>
+                            <a class="page-scroll" href="#Services">Servicios</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#Gallery">Gallery</a>
+                            <a class="page-scroll" href="#Gallery">Galería</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="#blog">Blog</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#contact">Contact</a>
+                            <a class="page-scroll" href="#contact">Contacto</a>
                         </li>
                     </ul>
                 </div>
@@ -100,20 +102,20 @@
 				<div id="owl-demo" class="owl-carousel header1">
 				  <div>
 				  <div class="col-xs-12 col-sm-6 col-md-6 header-text">
-                    <h2 class="wow bounceIn animated" data-wow-delay=".40s">FRIENDLY <span>TEMPLATE</span> FOR <br/>YOUR WEBSITE</h2>
-                    <h3 class="wow bounceIn animated" data-wow-delay=".50s">FOR YOUR WEBSITE </h3>
-                    <p class="wow bounceIn animated" data-wow-delay=".60s">Lorem ipsum dolor sit amet, consectetur adipiscing elit.We ensure sit amet, consectetur adipiscing elit</p>
+                    <h2 class="wow bounceIn animated" data-wow-delay=".40s">BIENVENIDO A  <span>BLOSSOMB</span><br/>MAKEUP</h2>
+                    <h3 class="wow bounceIn animated" data-wow-delay=".50s">Maquillaje profesional</h3>
+                    <p class="wow bounceIn animated" data-wow-delay=".60s">Servicios de maquillaje profesional para todo tipo de eventos</p>
                     <p>
-                        <div class="btn btn-primary btn-lg btn-ornge wow bounceIn animated" data-wow-delay="1s"><i class="hbtn"></i> <span>Click Here</span></i>
+                        <div class="btn btn-primary btn-lg btn-ornge wow bounceIn animated" data-wow-delay="1s"><i class="hbtn"></i> <span>Servicios</span></i>
                         </div>
                     </p>
 					</div>               
 				</div>
 				 <div>
 				  <div class="col-xs-12 col-sm-6 col-md-6 header-text">
-                    <h2 class="wow bounceIn animated" data-wow-delay=".40s">FRIENDLY <span>THIS</span> FOR <br/>YOUR WEBSITE</h2>
-                    <h3 class="wow bounceIn animated" data-wow-delay=".50s">FOR YOUR WEBSITE </h3>
-                    <p class="wow bounceIn animated" data-wow-delay=".60s">Lorem ipsum dolor sit amet, consectetur adipiscing elit.We ensure sit amet, consectetur adipiscing elit</p>
+                    <h2 class="wow bounceIn animated" data-wow-delay=".40s">BIENVENIDO A  <span>BLOSSOMB</span><br/>MAKEUP</h2>
+                    <h3 class="wow bounceIn animated" data-wow-delay=".50s">Maquillaje profesional</h3>
+                    <p class="wow bounceIn animated" data-wow-delay=".60s">Mira aquí nuestras ofertas destacadas y nuestros productos estrella</p>
                     <p>
                         <div class="btn btn-primary btn-lg btn-ornge wow bounceIn animated" data-wow-delay="1s"><i class="hbtn"></i> <span>Click Here</span></i>
                         </div>
@@ -134,12 +136,12 @@
         <div class="container">            
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInDown animated" data-wow-delay=".5s">
-                   <h2>About Us</h2>
-				   <p>Lorem ipsum dolor sit amet, netus pellentesque mauris, non quis adipiscing aliquam tortor nulla, ut dolor, mauris sem ultricies sed tellus ut aliquam. Donec vel sollicitudin orci mi ut, neque aliquam vel vel nostrum enim tristique, magna rhoncus. Dapibus purus eget cubilia eget, in ut in mi dui ipsum odio, nullam vestibulum aliquam fusce, dignissim venenatis ultricies sed mattis non, metus a libero et. Imperdiet aliquet. Vivamus malesuada, ultrices convallis, diam vitae pellentesque volutpat ante vitae amet, ac leo, arcu duis venenatis in auctor sit suscipit. </p>
-				   <p>Integer sapien sed mauris nec, volutpat risus leo placerat elit at aliquet, a egestas ultrices, vitae non amet lacus etiam, malesuada pellentesque scelerisque. Neque fermentum parturient ante pede, a dui ut ultricies luctus non nobis, amet nibh et. Diam nunc in eleifend commodo ante, amet quam integer dolor sit volutpat faucibus, sed sem, et amet sed, vestibulum mollit et a ac nullam. Eu nunc voluptas risus dui et pellentesque.</p>
+                   <h2>Sobre Nsotros</h2>
+				   <p>Con años de experiencia y reciclando nuestras técnicas constantemente en el sector, unimos fuerzas para ofrecer un servicio fresco e innovador para que puedas lucir tus maquillajes.</p>
+				   <p>Ofrecemos todo tipo de servicios en el sector del maquillaje, desde maquillajes para eventos sociales como maquillajes y caracterización profesional para la empreas. ¡¡No dudes en contactar con nosotros!!</p>
                   </div>
                   <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInRight animated" data-wow-delay=".5s">
-                     <img src="assets/img/about-img.jpg"/>               
+                     <img src="assets/img/studio.jpg"/>               
                   </div>     
             </div>
         </div>   
@@ -211,10 +213,10 @@
         <div class="container">            
             <div class="row">
 			 <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInLeft animated" data-wow-delay=".5s">
-                     <img src="assets/img/services-img.jpg" class="img-left"/>               
+                     <img src="assets/img/services.png" class="img-left"/>               
                   </div>     
                 <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInRight animated" data-wow-delay=".5s">
-                   <h2>Services</h2>
+                   <h2>Servicios</h2>
 				   <p>Lorem ipsum dolor sit amet, netus pellentesque mauris, non quis adipiscing aliquam tortor nulla, ut dolor, mauris sem ultricies sed tellus ut aliquam. Donec vel sollicitudin orci mi ut, neque aliquam vel vel nostrum enim tristique, magna rhoncus. Dapibus purus eget cubilia eget, in ut in mi dui ipsum odio, nullam vestibulum aliquam fusce, dignissim venenatis ultricies sed mattis non, metus a libero et. Imperdiet aliquet. Vivamus malesuada, ultrices convallis, diam vitae pellentesque volutpat ante vitae amet, ac leo, arcu duis venenatis in auctor sit suscipit. </p>
 				   <p>Integer sapien sed mauris nec, volutpat risus leo placerat elit at aliquet, a egestas ultrices, vitae non amet lacus etiam, malesuada pellentesque scelerisque. Neque fermentum parturient ante pede, a dui ut ultricies luctus non nobis, amet nibh et. Diam nunc in eleifend commodo ante, amet quam integer dolor sit volutpat faucibus, sed sem, et amet sed, vestibulum mollit et a ac nullam. Eu nunc voluptas risus dui et pellentesque.</p>
                   </div>
@@ -232,9 +234,9 @@
 					<i class="fa fa-home"></i>
 				</div>
 				<div class="clr1">				
-				<h2>
-					WEB<br/>DESIGN
-				</h2>
+				<h3>
+					MAQUILLAJE<br/>BODAS
+				</h3>
 				</div>
 				<div class="wbox">
 					<strong>sorem ipsum </strong>
@@ -249,9 +251,9 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					<i class="fa fa-code"></i>
 				</div>
 				<div class="clr2">				
-				<h2>
-					WEB<br/>DEVELOMENT
-				</h2>
+				<h3>
+					MAQUILLAJE<br/>CARACTERIZACIÓN
+				</h3>
 				</div>
 				<div class="wbox">
 					<strong>sorem ipsum </strong>
@@ -266,9 +268,9 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					<i class="fa fa-rocket"></i>
 				</div>
 				<div class="clr3">				
-				<h2>
-					PRINT<br/>DESING
-				</h2>	
+				<h3>
+					AEROGRAFÍA <br/>EXTREMA
+				</h3>	
 				</div>
 				<div class="wbox">
 					<strong>sorem ipsum </strong>
@@ -283,9 +285,9 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					<i class="fa fa-wifi"></i>
 				</div>
 				<div class="clr4">				
-				<h2>
-					ONLINE<br/>MARKITING
-				</h2>
+				<h3>
+					MAKEUP<br/>PARTY
+				</h3>
 				</div>
 				<div class="wbox">
 					<strong>sorem ipsum </strong>
@@ -304,37 +306,37 @@ nullam rhoncus tortor at dignissim vehicula.</p>
         <div class="container">            
             <div class="row">
 			<div class="title">
-				<h2>we are   awesome,   check some interesting facts</h2>				
+				<h2>Somos asombrosos,   mira estos datos interesantes </h2>				
 				</div>
 			 <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".1s">
                             <i class="fa fa-clock-o size"></i>
 							<h2>522</h2>
-							<span>Hour of Work</span>
+							<span>Horas de trabajo</span>
                   </div>     
                <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".2s">
                             <i class="fa fa-coffee size"></i>
 							<h2>888</h2>
-							<span>Cup of Coffee</span>
+							<span>Tazas de Café</span>
                   </div>  
 				   <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".3s">
                             <i class="fa fa-trophy size"></i>
 							<h2>11</h2>
-							<span>Awards Won</span>
+							<span>Premios ganados</span>
                   </div>  
 				   <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".4s">
                             <i class="fa fa-code size"></i>
 							<h2>55566</h2>
-							<span>Line of Code</span>
+							<span>Clientes satisfechos</span>
                   </div>  
 				   <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".5s">
                             <i class="fa fa-globe size"></i>
 							<h2>133</h2>
-							<span>Clients Worldwide</span>
+							<span>Marcas que confian en nosotros</span>
                   </div>  
 				   <div class="col-xs-12 col-sm-2 col-md-2 wow fadeInUp animated" data-wow-delay=".6s">
                             <i class="fa fa-rocket size"></i>
 							<h2>77</h2>
-							<span>Projects Delivered</span>
+							<span>Proyectos en peliculas y series</span>
                   </div>  
             </div>
         </div>   
@@ -344,19 +346,19 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 <!-- =============== Gallery =============== -->
     <section id="Gallery" class="wow flipInX animated" data-wow-delay=".5s">
 	<div class="title">
-				<h2>Gallery</h2>				
-				<p>we are   awesome,   check some interesting facts</p>
+				<h2>Galeria</h2>				
+				<p>¡Mira nuestros trabajos!</p>
 				</div>
 			
 	<div class="big-demo go-wide" data-js-module="filtering-demo">
 	<div class="container">            
             <div class="row">
   <div class="filter-button-group button-group js-radio-button-group">
-    <button class="button is-checked" data-filter="*">show all</button>
-    <button class="button" data-filter=".webdesign">Web design</button>
-    <button class="button" data-filter=".ecommerce">E-commerce</button>  
-	 <button class="button" data-filter=".cms">Cms</button>  
-	<button class="button" data-filter=".logo">Logo</button>  
+    <button class="button is-checked" data-filter="*">Mostrar todos</button>
+    <button class="button" data-filter=".webdesign">Boda</button>
+    <button class="button" data-filter=".ecommerce">Caracterización</button>  
+	 <button class="button" data-filter=".cms">Aerografo</button>  
+	<button class="button" data-filter=".logo">Makeup party</button>  
   </div>
 </div>
 </div>
@@ -364,37 +366,37 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 
   <div class="grid baguetteBoxThree gallery">
       <div class="element-item transition webdesign " data-category="post-transition">
-	  <a href="assets/img/gallery/emp-1.jpg">	 
-	  <img src="assets/img/gallery/emp-1.jpg"/>      
+	  <a href="assets/img/gallery/boda1.jpg">	 
+	  <img src="assets/img/gallery/boda1.jpg"/>      
 		<div class="hover-img"> 
-		<h2>Website Design</h2>
+		<h2>Boda</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>
 	  </a>
       </div>      
       <div class="element-item post-transition ecommerce " data-category="post-transition">
-	  <a href="assets/img/gallery/emp-2.jpg">	 
-        <img src="assets/img/gallery/emp-2.jpg"/>    
+	  <a href="assets/img/gallery/carac1.jpg">	 
+        <img src="assets/img/gallery/carac1.jpg"/>    
 		<div class="hover-img"> 
-		<h2>E-commerce</h2>
+		<h2>Caracterización</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>		
 	  </a>
       </div>
       <div class="element-item post-transition webdesign " data-category="post-transition">
-	  <a href="assets/img/gallery/emp-3.jpg">	 
-		<img src="assets/img/gallery/emp-3.jpg"/>       
+	  <a href="assets/img/gallery/boda2.jpg">	 
+		<img src="assets/img/gallery/boda2.jpg"/>       
 		<div class="hover-img"> 
-		<h2>Website Design</h2>
+		<h2>Boda</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>		
 		</a>
       </div>
 	 <div class="element-item transition ecommerce " data-category="post-transition">
-	   <a href="assets/img/gallery/emp-4.jpg">	 
-	    <img src="assets/img/gallery/emp-4.jpg"/>       
+	   <a href="assets/img/gallery/carac2.jpg">	 
+	    <img src="assets/img/gallery/carac2.jpg"/>       
 		<div class="hover-img"> 
-		<h2>E-commerce</h2>
+		<h2>Caracterización</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>	
 		</a>		
@@ -436,19 +438,19 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 		</a>
       </div>      
       <div class="element-item post-transition ecommerce " data-category="post-transition">
-         <a href="assets/img/gallery/emp-9.jpg">	 
-	    <img src="assets/img/gallery/emp-9.jpg"/>       
+         <a href="assets/img/gallery/carac3.png">	 
+	    <img src="assets/img/gallery/carac3.png"/>       
 		<div class="hover-img"> 
-		<h2>E-commerce</h2>
+		<h2>Caracterización</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>	
 		</a>
       </div>
       <div class="element-item post-transition webdesign " data-category="post-transition">
-		 <a href="assets/img/gallery/emp-10.jpg">	 
-	    <img src="assets/img/gallery/emp-10.jpg"/>       
+		 <a href="assets/img/gallery/boda3.jpg">	 
+	    <img src="assets/img/gallery/boda3.jpg"/>       
 		<div class="hover-img"> 
-		<h2>Web Design</h2>
+		<h2>Boda</h2>
 		<i class="fa fa-camera camera"></i>
 		</div>	
 		</a>          
