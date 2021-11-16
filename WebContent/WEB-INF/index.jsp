@@ -152,14 +152,14 @@
         <div class="container">            
             <div class="row">
 				<div class="title">
-				<h2>Our Team</h2>
-				<p>Meet some of our lovely, passionate, positive people.</p>
+				<h2>Nuestro Equipo</h2>
+				<p>Estos son nuestros profesionales </p>
 				</div>
                 <div class="col-xs-12 col-sm-6 col-md-3 wow fadeInDown animated" data-wow-delay=".1s">
                    <div class="timg"><img src="assets/img/team-img1.jpg"/></div>
 				    <div class="t-box">
-				   <h3>MOHD SUBHAN</h3>
-				   <span>Creative Director </span>
+				   <h3>Antonio García</h3>
+				   <span>Caracterización</span>
 				   <ul class="social-links">
 						<li><a class="wow fadeInUp animated" href="index.html#"><i class="fa fa-facebook"></i></a></li>
 						<li><a data-wow-delay=".1s" class="wow fadeInUp animated" href="index.html#"><i class="fa fa-twitter"></i></a></li>
@@ -170,8 +170,8 @@
 				  <div class="col-xs-12 col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay=".2s">
                     <div class="timg"><img src="assets/img/team-img2.jpg"/></div>
 				   <div class="t-box">
-				   <h3>Mohd Rahman</h3>
-				   <span>Website & ui designer</span>
+				   <h3>Alicia Martinez</h3>
+				   <span>Eventos Sociales</span>
 				   <ul class="social-links">
 						<li><a class="wow fadeInUp animated" href="index.html#"><i class="fa fa-facebook"></i></a></li>
 						<li><a data-wow-delay=".1s" class="wow fadeInUp animated" href="index.html#"><i class="fa fa-twitter"></i></a></li>
@@ -182,8 +182,8 @@
 				  <div class="col-xs-12 col-sm-6 col-md-3 wow fadeInDown animated" data-wow-delay=".3s">
                     <div class="timg"><img src="assets/img/team-img3.jpg"/></div>
 				   <div class="t-box">
-				   <h3>ZEENAT SUBHAN</h3>
-				   <span>Senior Developer</span>
+				   <h3>Maria Sanchez</h3>
+				   <span>Bodas</span>
 				   <ul class="social-links">
 						<li><a class="wow fadeInUp animated" href="index.html#"><i class="fa fa-facebook"></i></a></li>
 						<li><a data-wow-delay=".1s" class="wow fadeInUp animated" href="index.html#"><i class="fa fa-twitter"></i></a></li>
@@ -194,8 +194,8 @@
 				  <div class="col-xs-12 col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay=".4s">
                     <div class="timg"><img src="assets/img/team-img4.jpg"/></div>
 				    <div class="t-box">
-				   <h3>MOHD SAIF</h3>
-				   <span>Content Writer</span>
+				   <h3>Sonia Bouvier</h3>
+				   <span>Aerografía y Body Painting</span>
 				   <ul class="social-links">
 						<li><a class="wow fadeInUp animated" href="index.html#"><i class="fa fa-facebook"></i></a></li>
 						<li><a data-wow-delay=".1s" class="wow fadeInUp animated" href="index.html#"><i class="fa fa-twitter"></i></a></li>
@@ -485,8 +485,8 @@ nullam rhoncus tortor at dignissim vehicula.</p>
         <div class="container">            
             <div class="row">
 				<div class="title">
-				<h2>Our Blog</h2>
-				<p>Meet some of our lovely, passionate, positive people.</p>
+				<h2>Nuestras Reseñas</h2>
+				<p>Algunas de las mejores reseñas de nuestros clientes satisfechos</p>
 				</div>
                  <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp animated" data-wow-delay=".1s">
                       <div class="blog-img">
@@ -494,10 +494,10 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					  </div>
 					  <div class="row">
 					  <div class="data">30</div>
-					  <div class="month">March</div>
+					  <div class="month">Marzo</div>
 					  </div>
 					  <div class="row">
-					  <h3>Travelling with kids Quensland Capricorn Coast</h3>
+					  <h3>Pedro Quiroga</h3>
 					  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo dulam nullam rhoncus tortor at dignissim vehicula.</p>
 					  <a href="blog-single.html">MORE</a>
 					  </div>
@@ -507,11 +507,11 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 						<img src="assets/img/blog2.JPG"/>
 					  </div>
 					  <div class="row">
-					  <div class="data">30</div>
-					  <div class="month">March</div>
+					  <div class="data">10</div>
+					  <div class="month">Noviembre</div>
 					  </div>
 					  <div class="row">
-					  <h3>Travelling with kids Quensland Capricorn Coast</h3>
+					  <h3>Vanesa Gomez</h3>
 					  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo dulam nullam rhoncus tortor at dignissim vehicula.</p>
 					  <a href="blog-single.html">MORE</a>
 					  </div>
@@ -521,11 +521,11 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 						<img src="assets/img/blog3.JPG"/>
 					  </div>
 					  <div class="row">
-					  <div class="data">30</div>
-					  <div class="month">March</div>
+					  <div class="data">14</div>
+					  <div class="month">Julio</div>
 					  </div>
 					  <div class="row">
-					  <h3>Travelling with kids Quensland Capricorn Coast</h3>
+					  <h3>Macarena Guitierrez</h3>
 					  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo dulam nullam rhoncus tortor at dignissim vehicula.</p>
 					  <a href="blog-single.html">MORE</a>
 					  </div>
@@ -551,7 +551,7 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					<form action="#" method="post">
 						<div class="ajax-hidden">
 							<div class="col-xs-12 col-sm-6 col-md-6 form-group wow fadeInUp animated">
-								<label for="c_name" class="sr-only">Name</label>
+								<label for="c_name" class="sr-only">Nombre</label>
 								<input type="text" placeholder="Name" name="name" class="form-control" id="name" required="">
 							</div>
 
@@ -564,7 +564,7 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 								<textarea placeholder="Message" rows="7" name="description" id="description" class="form-control" required=""></textarea>
 							</div>
 
-							<button data-wow-delay=".3s" class="btn btn-sm btn-block wow fadeInUp animated" type="submit">Send Message</button>
+							<button data-wow-delay=".3s" class="btn btn-sm btn-block wow fadeInUp animated" type="submit">Enviar Mensaje</button>
 						</div>
 						<div class="ajax-response"></div>
 					</form>
@@ -589,18 +589,18 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					</ul>
 
                     <p class="copyright">
-                        &copy; 2016 Be. Created By <a href="http://templatestock.co">Template Stock</a>
+                        &copy; 2021 Blossomb <a href="#">S.A</a>
 					</p>
 
 				</div>
 				<div data-wow-delay=".6s" class="col-xs-12 col-sm-6 col-md-6 wow bounceIn  animated" style="visibility: visible; animation-delay: 0.6s; animation-name: bounceIn;">
 
 					  <section class="widget widget_text" id="text-15">
-                         <h3 class="widget-title">California, United States</h3> <div class="textwidget">786, Firs Avenue, The Mall,<br>
-                        <p>Tel: 01 234-56786<br>
-                        Mobile: 01 234-56786<br>
-                        E-mail: <a href="#">info@Be.com</a></p>
-                        <a href="#">Get directions on the map</a> →</div>
+                         <h3 class="widget-title">Puerto de Santa María, Cádiz</h3> <div class="textwidget">78, Calle Alberti, Junto I.E.S Mar de Cádiz,<br>
+                        <p>Tel: 956-32-45-91<br>
+                        Mobile: 665-678-104<br>
+                        E-mail: <a href="#">blossomb@gmail.com</a></p>
+                        <a href="#">Direccion en Maps</a></div>
                     </section>
 
 				</div>

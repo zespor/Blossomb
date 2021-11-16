@@ -820,7 +820,7 @@ blockquote {
 /*----------- blog ------------*/
 
 #blog {
-   background: #ffa100;
+   background: #b0f6f2;
     color: #fff;
     overflow: hidden;
 	padding:100px 0 220px;
@@ -984,7 +984,7 @@ blockquote {
     width: 50px;
 }
 #footer::before {
-    background: orange none repeat scroll 0 0;
+    background: #b0f6f2 none repeat scroll 0 0;
     content: "";
     height: 100%;
     position: absolute;
