@@ -84,6 +84,14 @@
                         <li>
                             <a class="page-scroll" href="#contact">Contacto</a>
                         </li>
+                        <li>
+                          <%if ((int)session.getAttribute("iniciado")==1){
+                        	out.print("<a href='perfil'>Perfil</a>");
+                        }else{
+                        	out.print("<a href='login'>Iniciar Sesion</a>");
+                        }%>
+                        	
+                        </li>                      
                     </ul>
                 </div>
                 <!-- =============== navbar-collapse =============== -->
